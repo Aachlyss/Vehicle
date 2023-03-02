@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vahicle", "Vahicle\Vahicle.csproj", "{4BB0EC75-04DA-471E-84B2-3BFEE2DC8BBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "Testing\Testing.csproj", "{0BA56FC8-8295-4C1D-AC40-89A00E402170}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BB0EC75-04DA-471E-84B2-3BFEE2DC8BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BB0EC75-04DA-471E-84B2-3BFEE2DC8BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BB0EC75-04DA-471E-84B2-3BFEE2DC8BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BB0EC75-04DA-471E-84B2-3BFEE2DC8BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BA56FC8-8295-4C1D-AC40-89A00E402170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA56FC8-8295-4C1D-AC40-89A00E402170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA56FC8-8295-4C1D-AC40-89A00E402170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA56FC8-8295-4C1D-AC40-89A00E402170}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9C5810A-7BB0-4D0B-A5E7-AC2B2E65A159}
+	EndGlobalSection
+EndGlobal
